@@ -1,8 +1,6 @@
 FROM ruby:2.6.3-buster
 
 # Install ruby-debug-ide, debase and bundler
-RUN gem install ruby-debug-ide
-RUN gem install debase
 RUN gem install bundler
 
 # Install git, process tools
