@@ -1,4 +1,4 @@
-# appacademy-fso-002-software-engineering-foundations
+# AppAcademy Full Stack Online
 
 ## Visual Studio Code Ruby Docker Container Development Environment
 
